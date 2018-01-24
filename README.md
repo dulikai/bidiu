@@ -2,12 +2,12 @@
 Data mining of chemical space for physical model development
 ----
 
-##ctAtlas
+ctAtlas
 ----
 charge transfer knowledge graph for protein amino acid side-chain interactions
 
 
-##D2FF
+D2FF
 ----
 data driven model as an altertive molecular mechanism force field
 prediction with ensemble models  
