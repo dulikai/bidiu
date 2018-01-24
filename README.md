@@ -1,5 +1,13 @@
 # bidiu
-data mining of molecular conformation space and prediction with ensemble models
+data mining of molecular conformation space;
+
+==
+ctAtlas
+charge transfer knowledge graph for protein amino acid side-chain interactions
+
+===
+PEM:
+data driven model, prediction with ensemble models
 for altertive molecular mechanism force field model
 
 
