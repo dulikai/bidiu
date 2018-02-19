@@ -2,6 +2,11 @@
 Data mining of chemical space for physical model development
 ----
 
+
+ctTAD
+----
+charge transfer topology associated domain for QM/MM boundary detections
+
 ctAtlas
 ----
 charge transfer knowledge graph for protein amino acid side-chain interactions
