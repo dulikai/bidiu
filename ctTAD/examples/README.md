@@ -19,7 +19,7 @@ The charge transfer couplings are derived from bioTB. https://github.com/dulikai
 References
 ----
 
-Liu, F.; Wang, H.; Du, L.; Zhang, D.; Gao, J., Charge Transfer Network Provides Alternative Topological Understanding  of Electronic Structures for Proteins Database, arXiv:1802.05192v1
+Liu, F.; Wang, H.; Du, L.; Zhang, D.; Gao, J., Charge Transfer Network Provides Alternative Topological Understanding  of Electronic Structures for Proteins Database, 2018, arXiv:1802.05192v1
 
 Cui, P.; Zhang, D.; Liu, Y.; Yuan, S.; Li, B.; Gao, J.; Liu, C., Tight-binding model method and its applications in DNA molecules. Scientia Sinica Chimica 2011, 41 (4), 748.  
 
